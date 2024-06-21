@@ -1,0 +1,35 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #E6B2F0;
+}
+
+.centro {}
+
+h1 {
+    font-size: 120%;
+}
+
+.btn {
+    margin: 5px;
+}
+
+
+.botones {
+    display: flex;
+    justify-content: center;
+}
+
+.imagen {
+    text-align: center;
+    content: 70%;
+    margin: 10px;
+}
+
+.imagen h1 {
+    text-align: center;
+}
